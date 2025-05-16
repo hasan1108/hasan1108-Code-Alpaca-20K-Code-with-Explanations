@@ -47,14 +47,13 @@ Each data sample consists of the following fields:
 ```
 ---
 
-##📜 License
+#📜 License
 This dataset inherits the original [`sahil2801/CodeAlpaca-20k`](https://huggingface.co/datasets/sahil2801/CodeAlpaca-20k)  license: CC BY 4.0. Please ensure compliance with licensing terms when using or distributing
 
 ---
 
-##👤 About the Author
-Hasan Basri Gedik
-Passionate about artificial intelligence, machine learning, and deep learning. Loves problem solving, interested in cryptographic algorithms, and an active chess player.
+#👤 About the Author
+Hasan Basri Gedik Passionate about artificial intelligence, machine learning, and deep learning. Loves problem solving, interested in cryptographic algorithms, and an active chess player.
 
 📫 Contact: hasanbgedik@gmail.com
 
