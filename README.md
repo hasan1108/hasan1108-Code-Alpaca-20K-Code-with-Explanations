@@ -45,14 +45,12 @@ Each data sample consists of the following fields:
   "output": "def reverse_string(s):\n    return s[::-1]\n\n# Explanation:\n# This function takes a string 's' and uses slicing to return the reversed string. The notation 's[::-1]' is a Python idiom for reversing strings."
 }
 ```
----
+## 📜 License
 
-#📜 License
-This dataset inherits the original [`sahil2801/CodeAlpaca-20k`](https://huggingface.co/datasets/sahil2801/CodeAlpaca-20k)  license: CC BY 4.0. Please ensure compliance with licensing terms when using or distributing
+This dataset inherits the original [`sahil2801/CodeAlpaca-20k`](https://huggingface.co/datasets/sahil2801/CodeAlpaca-20k) license: CC BY 4.0. Please ensure compliance with licensing terms when using or distributing
 
----
+## 👤 About the Author 
 
-#👤 About the Author
 Hasan Basri Gedik Passionate about artificial intelligence, machine learning, and deep learning. Loves problem solving, interested in cryptographic algorithms, and an active chess player.
 
 📫 Contact: hasanbgedik@gmail.com
